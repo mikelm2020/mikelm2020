@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 I am Miguel Angel López Monroy, I’m currently learning Python and Django for backend development on my own, I'm Engineer in Computation from UNAM in Mexico and love learning new technologies. Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-mikelm2020-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tecnottmklm/)](https://www.linkedin.com/in/tecnottmklm/)
-[![Gmail Badge](https://img.shields.io/badge/-mklm720928@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mklm720928@gmail.com)](mailto:mklm720928@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-mikelm2020-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/miguellopezmdev/)](https://www.linkedin.com/in/otro/)
+[![Gmail Badge](https://img.shields.io/badge/-mklm720928@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:miguel.lopezm.dev@gmail.com)](mailto:mklm720928@gmail.com)
 [![Facebook Badge](https://img.shields.io/badge/miguelangel.lopez.1029770-1877F2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/miguelangel.lopez.1029770/)](https://www.facebook.com/miguelangel.lopez.1029770/)
 
 
