@@ -18,11 +18,12 @@ I am Miguel Angel López Monroy, I’m currently learning Python and Django for 
 
 [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miguellopezmdev/)
 [![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:miguel.lopezm.dev@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/miguelangel.lopez.1029770/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/miguellopezmdev)
 
 
 ## ⚡ Technologies
 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray)
