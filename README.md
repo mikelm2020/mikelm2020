@@ -1,53 +1,72 @@
-### Hi there 👋
+# ¡Hola! Soy Miguel Angel López Monroy 👋
 
-<!--
-**mikelm2020/mikelm2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Ingeniero en Computación | Backend Python Developer
 
-Here are some ideas to get you started:
+Soy Ingeniero en Computación por la **Universidad Nacional Autónoma de México (UNAM)**, con más de 30 años de trayectoria en tecnologías de la información y experiencia en desarrollo backend con Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I am Miguel Angel López Monroy, I’m currently learning Python and Django for backend development on my own, I'm Engineer in Computation from UNAM in Mexico and love learning new technologies. Find out more about me & feel free to connect with me here:
+Me especializo en el diseño y desarrollo de **APIs REST, aplicaciones backend, integración de bases de datos y soluciones basadas en inteligencia artificial**.
 
-[![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miguellopezmdev/)
-[![Gmail Badge](https://img.shields.io/badge/-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:miguel.lopezm.dev@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/miguellopezmdev)
+Trabajo con tecnologías como **Python, FastAPI, Django, PostgreSQL, Docker y AWS**, aplicando buenas prácticas de arquitectura, pruebas automatizadas y control de versiones.
 
+Actualmente estoy enfocado en desarrollar soluciones backend robustas y ampliar mi experiencia en **IA generativa, RAG y agentes inteligentes**.
 
-## ⚡ Technologies
+## 🛠️ Tecnologías
 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat-square&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=flat-square&logo=Windows%2011&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
+**Backend**
+- Python, FastAPI, Django, Django REST Framework, Flask
+- SQLAlchemy, Pydantic, APIs REST y GraphQL
 
+**Bases de datos**
+- PostgreSQL, MySQL, Redis
+- pgvector y bases de datos vectoriales
 
+**Cloud y DevOps**
+- AWS, Docker, Git, GitHub Actions
+- CI/CD y pruebas automatizadas con pytest
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mikelm2020&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikelm2020&hide=TeX&layout=compact)
+**Inteligencia artificial**
+- LangChain, LangGraph, RAG
+- Integración con APIs de modelos de lenguaje
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=mikelm2020.mikelm2020)
+## 🚀 Proyecto destacado
+
+### [Intelligent Order Assistant](https://github.com/mikelm2020/intelligent-order-assistant)
+
+Asistente inteligente para la gestión de pedidos, desarrollado con **FastAPI, PostgreSQL, pgvector y LangGraph**.
+
+Integra consultas documentales mediante RAG con operaciones transaccionales de pedidos e inventario, incorporando aprobación humana (*Human-in-the-Loop*) antes de ejecutar acciones sensibles.
+
+**Características principales:**
+- API REST asíncrona con FastAPI y SQLAlchemy.
+- Gestión de clientes, productos, pedidos e inventario.
+- RAG para consultar documentación comercial.
+- Orquestación de flujos con LangGraph.
+- Aprobación humana persistente para confirmar o cancelar pedidos.
+- Protección ante concurrencia y reejecución de operaciones.
+- Docker, migraciones con Alembic y CI con GitHub Actions.
+- **158 pruebas automatizadas aprobadas.**
+
+[Ver código y documentación del proyecto](https://github.com/mikelm2020/intelligent-order-assistant)
+
+## 📂 Otros proyectos
+
+### [Notifications System](https://github.com/mikelm2020/notifications_system)
+Proyecto backend de sistema de notificaciones.
+
+### [Users GraphQL](https://github.com/mikelm2020/users_graphql)
+Proyecto de API GraphQL para gestión de usuarios.
+
+### [Serverless E-commerce](https://github.com/mikelm2020/serverless-ecommerce)
+Proyecto de comercio electrónico con enfoque en arquitectura serverless.
+
+## 🎯 Intereses profesionales
+
+Me interesa participar en proyectos de desarrollo backend con Python, diseño de APIs, arquitectura de software, servicios cloud e integración de inteligencia artificial.
+
+Busco oportunidades para aportar mi experiencia en ingeniería de software y seguir construyendo soluciones de calidad.
+
+## 📫 Contacto
+
+- **LinkedIn:** [Miguel Ángel López Monroy](https://www.linkedin.com/in/miguellopezmdev/)
+- **Correo:** [miguel.lopezm.dev@gmail.com](mailto:miguel.lopezm.dev@gmail.com)
+- **GitHub:** [@mikelm2020](https://github.com/mikelm2020)
